@@ -1,0 +1,2 @@
+F:\Users\ryo_g\Documents\arduino-1.8.13\libraries\Keyboard_jp
+C:\Users\ryo_g\AppData\Local\Arduino15\packages\Seeeduino\hardware\samd\1.8.1\libraries\HID
